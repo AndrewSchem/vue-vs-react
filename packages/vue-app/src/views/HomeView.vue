@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import DisplayCount from '@/components/DisplayCount.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <DisplayCount />
   </main>
 </template>
